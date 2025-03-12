@@ -22,8 +22,7 @@
 /* ==================== [Includes] ========================================== */
 
 #include "xf_utils.h"
-
-#define XF_SLE_IS_ENABLE 1
+#include "xf_sle_config_internal.h"
 
 #if XF_SLE_IS_ENABLE  || defined(__DOXYGEN__)
 
